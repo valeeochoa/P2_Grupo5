@@ -7,5 +7,5 @@ Laboratorio N°2 para la materia Estructura de Datos y Algoritmos<br>
 🌸 Lista Secuencial Binaria con Triseccion<br>
 
 Se realizo la evaluacion de los costos en las operaciones de Alta, Baja y Evocacion en las estructuras mencionadas anteriormente para la materia "Estructura de Datos y Algoritmos" 
-El enunciado se encuentra dentro del repositorio.
-*Créditos a mi compañera Vanina Muñoz
+El enunciado se encuentra dentro del repositorio.<br>
+🪬Créditos a mi compañera Vanina Muñoz
