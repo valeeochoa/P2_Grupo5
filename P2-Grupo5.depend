@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1683256246 source:c:\users\valentinta\documents\valentina\facultad\2d0 año\2do cuaatri\eda\2023\p2-grupo5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	"abb.h"
+	"li.h"
+	"lsobt.h"
+
+1684718530 c:\users\valentinta\documents\valentina\facultad\2d0 año\2do cuaatri\eda\2023\p2-grupo5\abb.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"vehiculo.h"
+
+1683256246 c:\users\valentinta\documents\valentina\facultad\2d0 año\2do cuaatri\eda\2023\p2-grupo5\vehiculo.h
+
+1684719187 c:\users\valentinta\documents\valentina\facultad\2d0 año\2do cuaatri\eda\2023\p2-grupo5\li.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"vehiculo.h"
+
+1684719184 c:\users\valentinta\documents\valentina\facultad\2d0 año\2do cuaatri\eda\2023\p2-grupo5\lsobt.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"vehiculo.h"
+
